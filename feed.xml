@@ -47,7 +47,7 @@
           <itunes:duration>42:00</itunes:duration>
           <itunes:image href="http://a.safe.moe/d3euW.png"/>
           <enclosure url="http://my.mixtape.moe/mxqhfu.mp3" type="audio/mpeg" length="68801582"/>
-          <guid>week0</guid>
+          <guid isPermaLink="false">week0 podcast</guid>
         </item>
     </channel>
 </rss>
